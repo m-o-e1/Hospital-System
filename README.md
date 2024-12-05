@@ -1,4 +1,3 @@
-Designed and implemented a Hospital Management System (HMS) using essential data structures like arrays, linked lists, stacks, queues, hash tables, and heaps. The system should manage various hospital functions such as patient records, doctor schedules, and appointment queues. 
 
 ​Optimize​ - Hospital Operations, Streamline management of patient records, doctor schedules, and appointment systems.​
 
